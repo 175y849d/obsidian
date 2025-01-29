@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d5d055d4c402c9f",
+        "id": "8f8ea42899de3cd7",
         "type": "tabs",
         "children": [
           {
-            "id": "c8d56beef9419eee",
+            "id": "9a7ded0414b43434",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8d56beef9419eee",
+  "active": "9a7ded0414b43434",
   "lastOpenFiles": [
     "FreeCodeCamp/JavaScript/JavaScript DOM.md",
     "vault1/Free.md",
