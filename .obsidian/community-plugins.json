@@ -15,5 +15,7 @@
   "obsidian-git",
   "code-emitter",
   "make-md",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "calendar",
+  "execute-code"
 ]
