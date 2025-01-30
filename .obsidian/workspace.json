@@ -99,6 +99,7 @@
       {
         "id": "8e7c09ac878c5686",
         "type": "tabs",
+        "dimension": 37.083333333333336,
         "children": [
           {
             "id": "ad60250ed4e72e0b",
@@ -126,6 +127,7 @@
       {
         "id": "3b251b621c9c8eac",
         "type": "tabs",
+        "dimension": 62.916666666666664,
         "children": [
           {
             "id": "ace9487f9d95b5b1",
@@ -133,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "freeCodeCamp/JavaScript/JavaScript DOM.md",
+                "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "freeCodeCamp/JavaScript/JavaScript DOM.md",
+                "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -200,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 660.5
+    "width": 404.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e2c5a466652c034",
+  "active": "42ea387f082437f8",
   "lastOpenFiles": [
     "FreeCodeCamp/JavaScript/JavaScript.md",
     "Excalidraw/Drawing 2025-01-30 11.54.43.excalidraw.md",
