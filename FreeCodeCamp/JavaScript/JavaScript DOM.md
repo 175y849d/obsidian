@@ -3,7 +3,10 @@
 #body示例 
 ```
 	<body>
-		<h1>
+		<h1 id="main-headings">Favourite Movie Franchise</h1>
+		<ul>
+			
+		</ul>
 	</body>
 ```
 1. 用getElementById
