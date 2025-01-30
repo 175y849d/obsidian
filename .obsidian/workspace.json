@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "273214209022dffe",
+            "id": "74b1fa4f73929f5e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -163,8 +163,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -173,8 +173,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ],
