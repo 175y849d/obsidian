@@ -19,7 +19,8 @@
 ```
 1. 用getElementById( )的提取方式
 ```javascript run
-    
+    const title = document.getElementById("main-headings");
+    console.log(title);
 ```
 
 
