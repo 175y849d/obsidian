@@ -13,5 +13,6 @@
   "obsidian-importer",
   "nldates-obsidian",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "code-emitter"
 ]
