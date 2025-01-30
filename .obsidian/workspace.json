@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 328.5
   },
   "right": {
     "id": "12e5d746892ebdf6",
@@ -99,7 +99,7 @@
       {
         "id": "8e7c09ac878c5686",
         "type": "tabs",
-        "dimension": 37.083333333333336,
+        "dimension": 37.916666666666664,
         "children": [
           {
             "id": "ad60250ed4e72e0b",
@@ -120,6 +120,16 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "8e2c5a466652c034",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
         "currentTab": 1
@@ -127,7 +137,7 @@
       {
         "id": "3b251b621c9c8eac",
         "type": "tabs",
-        "dimension": 62.916666666666664,
+        "dimension": 62.083333333333336,
         "children": [
           {
             "id": "ace9487f9d95b5b1",
@@ -186,19 +196,8 @@
               "icon": "lucide-list",
               "title": "JavaScript DOM 的大纲"
             }
-          },
-          {
-            "id": "8e2c5a466652c034",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,7 +219,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42ea387f082437f8",
+  "active": "ace9487f9d95b5b1",
   "lastOpenFiles": [
     "FreeCodeCamp/JavaScript/JavaScript.md",
     "Excalidraw/Drawing 2025-01-30 11.54.43.excalidraw.md",

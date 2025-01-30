@@ -13,10 +13,10 @@
   "nldates-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "code-emitter",
   "make-md",
   "highlightr-plugin",
   "calendar",
   "execute-code",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "copilot"
 ]
