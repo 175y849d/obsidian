@@ -15,8 +15,8 @@
               "state": {
                 "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": true
+                "backlinks": true,
+                "source": false
               },
               "icon": "lucide-file",
               "title": "JavaScript DOM"
@@ -97,6 +97,33 @@
     "type": "split",
     "children": [
       {
+        "id": "8e7c09ac878c5686",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad60250ed4e72e0b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "30acf5b2a8997f49",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
         "id": "3b251b621c9c8eac",
         "type": "tabs",
         "children": [
@@ -140,7 +167,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -159,16 +186,6 @@
             }
           },
           {
-            "id": "ad60250ed4e72e0b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
             "id": "8e2c5a466652c034",
             "type": "leaf",
             "state": {
@@ -177,24 +194,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "30acf5b2a8997f49",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 660.5,
-    "collapsed": true
+    "width": 660.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,12 +218,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42ea387f082437f8",
+  "active": "8e2c5a466652c034",
   "lastOpenFiles": [
-    "FreeCodeCamp/JavaScript/console.log(Hello,World!);.md",
-    "FreeCodeCamp/JavaScript/JavaScript DOM.md",
-    "Excalidraw/Drawing 2025-01-30 11.54.43.excalidraw.md",
     "FreeCodeCamp/JavaScript/JavaScript.md",
+    "Excalidraw/Drawing 2025-01-30 11.54.43.excalidraw.md",
+    "FreeCodeCamp/JavaScript/JavaScript DOM.md",
+    "FreeCodeCamp/JavaScript/console.log(Hello,World!);.md",
     "Tags",
     "Excalidraw",
     "vault1/Free.md",
