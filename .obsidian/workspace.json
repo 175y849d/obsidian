@@ -11,15 +11,10 @@
             "id": "42ea387f082437f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "JavaScript DOM"
+              "title": "新标签页"
             }
           }
         ],
@@ -132,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "3b251b621c9c8eac",
@@ -145,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "JavaScript DOM 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -164,12 +158,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "JavaScript DOM 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -190,14 +183,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "JavaScript DOM 的大纲"
+              "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -220,11 +212,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "8e2c5a466652c034",
+  "active": "e686ec9357b6b055",
   "lastOpenFiles": [
+    "FreeCodeCamp/JavaScript/JavaScript DOM.md",
     "FreeCodeCamp/JavaScript/JavaScript.md",
     "Excalidraw/Drawing 2025-01-30 11.54.43.excalidraw.md",
-    "FreeCodeCamp/JavaScript/JavaScript DOM.md",
     "FreeCodeCamp/JavaScript/console.log(Hello,World!);.md",
     "Tags",
     "Excalidraw",
