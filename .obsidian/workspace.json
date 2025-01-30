@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e2c5a466652c034",
+  "active": "42ea387f082437f8",
   "lastOpenFiles": [
     "FreeCodeCamp/JavaScript/JavaScript DOM.md",
     "Tags",
