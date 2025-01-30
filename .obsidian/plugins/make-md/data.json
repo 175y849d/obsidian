@@ -35,7 +35,10 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Tags",
+    "//FreeCodeCamp",
+    "//FreeCodeCamp/FreeCodeCamp/JavaScript"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

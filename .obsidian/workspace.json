@@ -53,12 +53,15 @@
             "id": "eee1df8bd0633ba6",
             "type": "leaf",
             "state": {
-              "type": "mk-uri-view",
+              "type": "markdown",
               "state": {
-                "path": "https://www.make.md/static/GetStarted.md"
+                "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "https://www.make.md/static/GetStarted.md"
+              "title": "JavaScript DOM"
             }
           }
         ],
