@@ -1,7 +1,10 @@
 #JavaScript 
 
-```python run
-  print("Hello World!");
+
+
+
+```javascript run
+  console.log("Hello World!");
 ```
 
 	
