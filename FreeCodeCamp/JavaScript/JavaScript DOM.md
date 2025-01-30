@@ -5,15 +5,21 @@
 #body示例 
 ```
 	<body>
-		<h1 id="main-headings">Favourite Movie Franchise</h1>
-		<ul>
-			
-		</ul>
+	  <div class="container">
+	    <h1 id="main-headings">Favourite Movie Franchise</h1>
+			<ul>
+				<li class="list-items">The Matrix</li>
+	        <li class="list-items">Star Wars</li>
+	        <li class="list-items">Harry Potter</li>
+	        <li class="list-items">Lord of the Rings</li>
+	        <li class="list-items">Marvel</li>
+			</ul>
+	  </div>
 	</body>
 ```
-1. 用getElementById
+1. 用getElementById( )的提取方式
 ```javascript run
-     console.log("Hello World"); 
+    
 ```
 
 
