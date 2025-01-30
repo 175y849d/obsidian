@@ -1,5 +1,5 @@
 {
-  "compactView": true,
+  "compactView": false,
   "compactingFactor": 1.5,
   "minLinkLength": 18,
   "excalibrainFilepath": "excalibrain.md",
@@ -85,7 +85,7 @@
   "inverseArrowDirection": true,
   "renderAlias": true,
   "nodeTitleScript": "",
-  "backgroundColor": "#0c3e6aff",
+  "backgroundColor": "#f7f7f7ff",
   "excludeFilepaths": [],
   "autoOpenCentralDocument": false,
   "toggleEmbedTogglesAutoOpen": true,
@@ -97,16 +97,16 @@
   "showTagNodes": false,
   "showPageNodes": true,
   "showNeighborCount": true,
-  "showFullTagName": false,
+  "showFullTagName": true,
   "maxItemCount": 30,
   "renderSiblings": false,
   "applyPowerFilter": false,
   "baseNodeStyle": {
     "prefix": "",
-    "backgroundColor": "#00000066",
+    "backgroundColor": "#f80dd8b2",
     "fillStyle": "solid",
-    "textColor": "#ffffffff",
-    "borderColor": "#00000000",
+    "textColor": "#000000ff",
+    "borderColor": "#d224f500",
     "fontSize": 20,
     "fontFamily": 3,
     "maxLabelLength": 30,
@@ -117,8 +117,8 @@
     "padding": 10,
     "gateRadius": 5,
     "gateOffset": 15,
-    "gateStrokeColor": "#ffffffff",
-    "gateBackgroundColor": "#ffffffff",
+    "gateStrokeColor": "#b13e3eff",
+    "gateBackgroundColor": "#e55252ff",
     "gateFillStyle": "solid"
   },
   "centralNodeStyle": {
@@ -162,16 +162,16 @@
   "primaryTagFieldLowerCase": "note-type",
   "displayAllStylePrefixes": true,
   "baseLinkStyle": {
-    "strokeColor": "#696969FF",
+    "strokeColor": "#fd0d0dff",
     "strokeWidth": 1,
-    "strokeStyle": "solid",
-    "roughness": 0,
-    "startArrowHead": "none",
-    "endArrowHead": "none",
-    "showLabel": false,
+    "strokeStyle": "dashed",
+    "roughness": 2,
+    "startArrowHead": "bar",
+    "endArrowHead": "triangle",
+    "showLabel": true,
     "fontSize": 10,
     "fontFamily": 3,
-    "textColor": "#ffffffff"
+    "textColor": "#f7f3f3ff"
   },
   "inferredLinkStyle": {
     "strokeStyle": "dashed"
@@ -227,9 +227,9 @@
     "Next": {}
   },
   "navigationHistory": [
-    "FreeCodeCamp/JavaScript/JavaScript DOM.md",
     "https://www.youtube.com/watch?v=5fb2aPlgoys&t=3022s",
-    "https://www.youtube.com"
+    "https://www.youtube.com",
+    "FreeCodeCamp/JavaScript/JavaScript DOM.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
