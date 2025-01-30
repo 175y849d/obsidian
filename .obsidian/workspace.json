@@ -15,7 +15,7 @@
               "state": {
                 "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
@@ -203,6 +203,7 @@
   },
   "active": "42ea387f082437f8",
   "lastOpenFiles": [
+    "FreeCodeCamp/JavaScript/console.log(Hello,World!);.md",
     "FreeCodeCamp/JavaScript/JavaScript DOM.md",
     "Excalidraw/Drawing 2025-01-30 11.54.43.excalidraw.md",
     "FreeCodeCamp/JavaScript/JavaScript.md",
