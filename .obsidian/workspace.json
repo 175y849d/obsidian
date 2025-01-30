@@ -26,12 +26,15 @@
             "id": "42ea387f082437f8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-30 11.54.43.excalidraw.md"
+                "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-30 11.54.43.excalidraw"
+              "icon": "lucide-file",
+              "title": "JavaScript DOM"
             }
           }
         ],
@@ -205,8 +208,8 @@
   },
   "active": "42ea387f082437f8",
   "lastOpenFiles": [
-    "FreeCodeCamp/JavaScript/JavaScript DOM.md",
     "Excalidraw/Drawing 2025-01-30 11.54.43.excalidraw.md",
+    "FreeCodeCamp/JavaScript/JavaScript DOM.md",
     "Excalidraw",
     "vault1/Free.md",
     "FreeCodeCamp/JavaScript",
