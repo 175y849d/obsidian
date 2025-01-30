@@ -38,7 +38,8 @@
     "/",
     "//Tags",
     "//FreeCodeCamp",
-    "//FreeCodeCamp/FreeCodeCamp/JavaScript"
+    "//FreeCodeCamp/FreeCodeCamp/JavaScript",
+    "//Excalidraw"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

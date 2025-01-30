@@ -15,5 +15,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "code-emitter",
-  "make-md"
+  "make-md",
+  "execute-code",
+  "highlightr-plugin"
 ]
