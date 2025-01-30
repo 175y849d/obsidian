@@ -11,10 +11,15 @@
             "id": "42ea387f082437f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "JavaScript DOM"
             }
           }
         ],
@@ -140,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "JavaScript DOM 的反向链接列表"
             }
           },
           {
@@ -158,11 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "JavaScript DOM 的出链列表"
             }
           },
           {
@@ -183,9 +190,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "JavaScript DOM 的大纲"
             }
           }
         ],
@@ -212,8 +221,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e686ec9357b6b055",
+  "active": "42ea387f082437f8",
   "lastOpenFiles": [
+    "excalibrain.md",
     "FreeCodeCamp/JavaScript/JavaScript DOM.md",
     "FreeCodeCamp/JavaScript/JavaScript.md",
     "Excalidraw/Drawing 2025-01-30 11.54.43.excalidraw.md",

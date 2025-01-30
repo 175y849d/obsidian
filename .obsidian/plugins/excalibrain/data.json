@@ -87,7 +87,7 @@
   "nodeTitleScript": "",
   "backgroundColor": "#0c3e6aff",
   "excludeFilepaths": [],
-  "autoOpenCentralDocument": true,
+  "autoOpenCentralDocument": false,
   "toggleEmbedTogglesAutoOpen": true,
   "showInferredNodes": true,
   "showAttachments": true,
@@ -226,7 +226,11 @@
     "n": {},
     "Next": {}
   },
-  "navigationHistory": [],
+  "navigationHistory": [
+    "FreeCodeCamp/JavaScript/JavaScript DOM.md",
+    "https://www.youtube.com/watch?v=5fb2aPlgoys&t=3022s",
+    "https://www.youtube.com"
+  ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
   "ontologySuggesterChildTrigger": "::c",
