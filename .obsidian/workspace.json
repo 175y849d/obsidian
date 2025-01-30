@@ -14,9 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "JavaScript DOM"
@@ -197,8 +197,7 @@
               "title": "JavaScript DOM 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
