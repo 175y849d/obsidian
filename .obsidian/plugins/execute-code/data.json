@@ -7,7 +7,7 @@
   "wslMode": false,
   "shellWSLMode": false,
   "onlyCurrentBlock": false,
-  "nodePath": "",
+  "nodePath": "C:/Program Files/nvm/v18.20.5/node.exe",
   "nodeArgs": "",
   "jsFileExtension": "js",
   "jsInject": "",
