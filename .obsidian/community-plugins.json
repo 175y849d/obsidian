@@ -14,5 +14,6 @@
   "nldates-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "code-emitter"
+  "code-emitter",
+  "make-md"
 ]

@@ -36,9 +36,33 @@
               "icon": "lucide-file",
               "title": "JavaScript DOM"
             }
+          },
+          {
+            "id": "a9d0e2f72cc05d88",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/latest.md"
+            }
+          },
+          {
+            "id": "eee1df8bd0633ba6",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/GetStarted.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/GetStarted.md"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,8 +113,19 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "c12a63c8ab7a035e",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -206,10 +241,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42ea387f082437f8",
+  "active": "eee1df8bd0633ba6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-01-30 11.54.43.excalidraw.md",
+    "Tags",
     "FreeCodeCamp/JavaScript/JavaScript DOM.md",
+    "Excalidraw/Drawing 2025-01-30 11.54.43.excalidraw.md",
     "Excalidraw",
     "vault1/Free.md",
     "FreeCodeCamp/JavaScript",
