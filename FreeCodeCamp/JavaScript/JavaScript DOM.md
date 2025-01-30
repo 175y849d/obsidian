@@ -1,7 +1,8 @@
 #JavaScript
 
-    ```
-    Type/Paste Your Code
+    ```javascript run
+       console.log("Hello,World!");
+       
     ```
 
 
