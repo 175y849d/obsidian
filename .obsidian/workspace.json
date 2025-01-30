@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "JavaScript DOM"
             }
+          },
+          {
+            "id": "42ea387f082437f8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-30 11.54.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-30 11.54.43.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,9 +203,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a7ded0414b43434",
+  "active": "42ea387f082437f8",
   "lastOpenFiles": [
     "FreeCodeCamp/JavaScript/JavaScript DOM.md",
+    "Excalidraw/Drawing 2025-01-30 11.54.43.excalidraw.md",
+    "Excalidraw",
     "vault1/Free.md",
     "FreeCodeCamp/JavaScript",
     "FreeCodeCamp",
