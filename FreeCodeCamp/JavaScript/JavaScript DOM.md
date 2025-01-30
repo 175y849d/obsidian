@@ -1,7 +1,7 @@
 ---
-{}
+JavaScript:
 ---
 
-    ```JavaScript
-	    console.log("Hello,W");
+    ```
+    Type/Paste Your Code
     ```
