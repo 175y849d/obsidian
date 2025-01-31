@@ -21,7 +21,7 @@
 ```
 
 
-###  1.用getElementById( )的提取方法
+###  1.getElementById( )
 
 	 ```
 	    const title = document.getElementById("main-headings");
@@ -29,7 +29,10 @@
 	```
 		
 
-### 2.
+### 2.GetElementByClassName( )
+```
+	const listItem = document.getElement
+```
 
 
 

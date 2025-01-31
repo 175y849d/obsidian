@@ -15,7 +15,7 @@
               "state": {
                 "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "12e5d746892ebdf6",
