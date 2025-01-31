@@ -6,7 +6,7 @@ sticker: emoji//1f92a
 <https://www.jyshare.com/front-end/61/>
 
 #body示例 
-```javascript run
+```
 <html>
 	<body>
 	  <div class="container">
@@ -24,6 +24,7 @@ sticker: emoji//1f92a
 		  console.log(title);
 	 </script>
 	</body>
+<
 ```
 
 
