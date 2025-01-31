@@ -37,7 +37,9 @@
   "expandedSpaces": [
     "/",
     "//FreeCodeCamp",
-    "//FreeCodeCamp/FreeCodeCamp/JavaScript"
+    "//FreeCodeCamp/FreeCodeCamp/JavaScript",
+    "//MDN",
+    "//MDN/MDN/JavaScript 基础"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

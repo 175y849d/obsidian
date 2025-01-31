@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FreeCodeCamp/JavaScript 基础.md",
+                "file": "MDN/JavaScript 基础/语法和数据类型.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "JavaScript 基础"
+              "title": "语法和数据类型"
             }
           }
         ],
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "12e5d746892ebdf6",
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FreeCodeCamp/JavaScript 基础.md",
+                "file": "MDN/JavaScript 基础/语法和数据类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "JavaScript 基础 的反向链接列表"
+              "title": "语法和数据类型 的反向链接列表"
             }
           },
           {
@@ -211,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,11 +231,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6f4f5d92234a1f5",
+  "active": "42ea387f082437f8",
   "lastOpenFiles": [
-    "FreeCodeCamp/JavaScript/JavaScript.md",
+    "MDN/JavaScript 基础/语法和数据类型.md",
+    "MDN/JavaScript 基础/JavaScript 基础.md",
+    "MDN/JavaScript 基础",
     "FreeCodeCamp/JavaScript/JavaScript DOM.md",
-    "FreeCodeCamp/JavaScript 基础.md",
+    "MDN/JavaScript 基础.md",
+    "Vault.md",
+    "MDN/MDN.md",
+    "MDN",
+    "FreeCodeCamp/FreeCodeCamp.md",
+    "FreeCodeCamp/JavaScript/JavaScript.md",
     "Tags",
     "FreeCodeCamp/JavaScript/Drawing 2025-01-31 13.08.09.excalidraw.md",
     "excalibrain.md",
