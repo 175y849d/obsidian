@@ -19,23 +19,18 @@ sticker: emoji//1f92a
 	        <li class="list-items">Marvel</li>
 			</ul>
 	  </div>
-	 <script>
-	      const title = document.getElementById("main-headings");
-		  console.log(title);
-	 </script>
 	</body>
-<
+</html>
 ```
 
 
-1. 用getElementById( )的提取方式
-```javascript run
+1. 用getElementById( )的提取方法
+```
     const title = document.getElementById("main-headings");
     console.log(title);
 ```
 
 
-2.
 
 
 
