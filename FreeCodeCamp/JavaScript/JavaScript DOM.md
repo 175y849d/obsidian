@@ -1,6 +1,6 @@
-shi'pi<https://www.youtube.com/watch?v=5fb2aPlgoys&t=3022s>
+>视频:<https://www.youtube.com/watch?v=5fb2aPlgoys&t=3022s>
 
-<https://www.jyshare.com/front-end/61/>
+>代码在线编辑器:<https://www.jyshare.com/front-end/61/>
 
 >body示例 
 ```
@@ -22,7 +22,6 @@ shi'pi<https://www.youtube.com/watch?v=5fb2aPlgoys&t=3022s>
 
 
 ###  1.用getElementById( )的提取方法
->
 
 	 ```
 	    const title = document.getElementById("main-headings");
@@ -30,6 +29,7 @@ shi'pi<https://www.youtube.com/watch?v=5fb2aPlgoys&t=3022s>
 	```
 		
 
+### 2.
 
 
 
