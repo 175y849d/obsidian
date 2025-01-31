@@ -31,7 +31,8 @@
 
 ### 2.GetElementByClassName( )
 ```
-	const listItem = document.getElement
+	const listItems = document.getElementsByClassName("list-items");
+	console.log(listItems);
 ```
 
 
