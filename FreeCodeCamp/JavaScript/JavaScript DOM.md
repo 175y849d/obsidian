@@ -1,8 +1,8 @@
-<https://www.youtube.com/watch?v=5fb2aPlgoys&t=3022s>
+shi'pi<https://www.youtube.com/watch?v=5fb2aPlgoys&t=3022s>
 
 <https://www.jyshare.com/front-end/61/>
 
-#body示例 
+>body示例 
 ```
 <html>
 	<body>
@@ -21,8 +21,8 @@
 ```
 
 
-
-	 - 1.用getElementById( )的提取方法
+###  1.用getElementById( )的提取方法
+>
 
 	 ```
 	    const title = document.getElementById("main-headings");
