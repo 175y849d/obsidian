@@ -36,10 +36,10 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//FreeCodeCamp",
     "//FreeCodeCamp/FreeCodeCamp/JavaScript",
     "//MDN",
-    "//MDN/MDN/JavaScript 基础"
+    "//MDN/MDN/JavaScript 基础",
+    "//Excalidraw"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
