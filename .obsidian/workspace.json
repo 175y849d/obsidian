@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md",
-                "mode": "preview",
-                "source": false,
+                "mode": "source",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,

@@ -7,6 +7,7 @@ sticker: emoji//1f92a
 
 #body示例 
 ```javascript run
+<html>
 	<body>
 	  <div class="container">
 	    <h1 id="main-headings">Favourite Movie Franchise</h1>
