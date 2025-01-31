@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md",
+                "file": "FreeCodeCamp/JavaScript 基础.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "JavaScript DOM"
+              "title": "JavaScript 基础"
             }
           }
         ],
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "12e5d746892ebdf6",
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FreeCodeCamp/JavaScript/JavaScript DOM.md",
+                "file": "FreeCodeCamp/JavaScript 基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "JavaScript DOM 的反向链接列表"
+              "title": "JavaScript 基础 的反向链接列表"
             }
           },
           {
@@ -230,12 +229,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42ea387f082437f8",
+  "active": "f6f4f5d92234a1f5",
   "lastOpenFiles": [
+    "FreeCodeCamp/JavaScript/JavaScript.md",
     "FreeCodeCamp/JavaScript/JavaScript DOM.md",
+    "FreeCodeCamp/JavaScript 基础.md",
     "Tags",
     "FreeCodeCamp/JavaScript/Drawing 2025-01-31 13.08.09.excalidraw.md",
-    "FreeCodeCamp/JavaScript/JavaScript.md",
     "excalibrain.md",
     "Excalidraw/Drawing 2025-01-30 11.54.43.excalidraw.md",
     "FreeCodeCamp/JavaScript/console.log(Hello,World!);.md",
