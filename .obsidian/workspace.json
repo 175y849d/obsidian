@@ -155,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MDN/JavaScript 基础/语法和数据类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "语法和数据类型 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -229,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42ea387f082437f8",
+  "active": "bdcbb2850a6362c5",
   "lastOpenFiles": [
     "MDN/JavaScript 基础/语法和数据类型.md",
     "MDN/JavaScript 基础/JavaScript 基础.md",
