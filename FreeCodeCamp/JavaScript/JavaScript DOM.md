@@ -1,6 +1,3 @@
----
-sticker: emoji//1f92a
----
 <https://www.youtube.com/watch?v=5fb2aPlgoys&t=3022s>
 
 <https://www.jyshare.com/front-end/61/>
@@ -24,18 +21,14 @@ sticker: emoji//1f92a
 ```
 
 
-1.用getElementById( )的提取方法
 
+	 - 1.用getElementById( )的提取方法
 
-
-
-1. 1.用getElementById( )的提取方法
-
- ```
-    const title = document.getElementById("main-headings");
-    console.log(title);
-```
-
+	 ```
+	    const title = document.getElementById("main-headings");
+	    console.log(title);
+	```
+		
 
 
 
