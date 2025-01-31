@@ -24,14 +24,18 @@ sticker: emoji//1f92a
 ```
 
 
-用getElementById( )的提取方法
-```
+1.用getElementById( )的提取方法
+
+
+
+
+1. 1.用getElementById( )的提取方法
+
+ ```
     const title = document.getElementById("main-headings");
     console.log(title);
 ```
 
-
-    
 
 
 
