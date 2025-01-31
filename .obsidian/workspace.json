@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,13 +231,13 @@
   },
   "active": "168ea8059690da29",
   "lastOpenFiles": [
-    "MDN/JavaScript 基础/JavaScript 基础.md",
+    "FreeCodeCamp/JavaScript/JavaScript DOM.md",
     "MDN/JavaScript 基础/语法和数据类型.md",
+    "MDN/JavaScript 基础/JavaScript 基础.md",
     "MDN/MDN.md",
     "images/images.md",
     "images",
     "images/Pasted image 20250131150516.png",
-    "FreeCodeCamp/JavaScript/JavaScript DOM.md",
     "Excalidraw/Drawing 2025-01-31 15.04.37_0.excalidraw.md",
     "Excalidraw/Drawing 2025-01-31 15.04.37.excalidraw.md",
     "Excalidraw",
