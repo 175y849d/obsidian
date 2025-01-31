@@ -6,7 +6,7 @@ sticker: emoji//1f92a
 <https://www.jyshare.com/front-end/61/>
 
 #body示例 
-```
+```javascript run
 	<body>
 	  <div class="container">
 	    <h1 id="main-headings">Favourite Movie Franchise</h1>
@@ -18,6 +18,10 @@ sticker: emoji//1f92a
 	        <li class="list-items">Marvel</li>
 			</ul>
 	  </div>
+	 <script>
+	      const title = document.getElementById("main-headings");
+		  console.log(title);
+	 </script>
 	</body>
 ```
 
