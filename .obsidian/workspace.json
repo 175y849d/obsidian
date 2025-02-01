@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MDN/JavaScript 基础/语法和数据类型.md",
+                "file": "MDN/JavaScript实践/todo-list项目/事件监听器 -- addEventListener.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "语法和数据类型 的反向链接列表"
+              "title": "事件监听器 -- addEventListener 的反向链接列表"
             }
           },
           {
@@ -211,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
