@@ -1,5 +1,7 @@
 [[2025-02-01]]
-我在做我的todo-list项目时,deepseek给我了个简略的html页面代码,如下
+
+##### 我在做我的todo-list项目时,deepseek给我了个简略的index.html页面代码,如下
+
 
 ```
 	    <!DOCTYPE html>  
@@ -23,3 +25,4 @@
 		</body>  
 		</html>
 ```
+
