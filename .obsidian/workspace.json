@@ -11,12 +11,24 @@
             "id": "168ea8059690da29",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "MDN"
+                "file": "MDN/JavaScript实践/事件监听器 -- addEventListener.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "MDN"
+              "title": "事件监听器 -- addEventListener"
             }
           }
         ],
@@ -219,8 +231,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90b5f3a80f722c18",
+  "active": "168ea8059690da29",
   "lastOpenFiles": [
+    "MDN/JavaScript实践/事件监听器 -- addEventListener.md",
+    "MDN/JavaScript实践/JavaScript实践.md",
+    "MDN/JavaScript实践",
     "MDN/JavaScript 基础/语法和数据类型.md",
     "Tags",
     "FreeCodeCamp/JavaScript/JavaScript DOM.md",
@@ -254,7 +269,6 @@
     "2025-01-29.md",
     "freeCodeCamp/JavaScript/未命名.md",
     "freeCodeCamp",
-    "freeCodeCamp/JavaScript",
     "JavaScript Dom.md",
     "未命名 1.canvas",
     "未命名.canvas"
