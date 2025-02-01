@@ -11,24 +11,12 @@
             "id": "168ea8059690da29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "MDN/JavaScript 基础/语法和数据类型.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "path": "MDN"
               },
               "icon": "lucide-file",
-              "title": "语法和数据类型"
+              "title": "MDN"
             }
           }
         ],
@@ -231,11 +219,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "168ea8059690da29",
+  "active": "90b5f3a80f722c18",
   "lastOpenFiles": [
+    "MDN/JavaScript 基础/语法和数据类型.md",
     "Tags",
     "FreeCodeCamp/JavaScript/JavaScript DOM.md",
-    "MDN/JavaScript 基础/语法和数据类型.md",
     "MDN/JavaScript 基础/JavaScript 基础.md",
     "MDN/MDN.md",
     "images/images.md",
