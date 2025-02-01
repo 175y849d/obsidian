@@ -86,7 +86,7 @@
             }
           },
           {
-            "id": "f6f4f5d92234a1f5",
+            "id": "90b5f3a80f722c18",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -95,7 +95,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -215,6 +216,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quickadd:QuickAdd": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -231,6 +233,7 @@
   },
   "active": "168ea8059690da29",
   "lastOpenFiles": [
+    "Tags",
     "FreeCodeCamp/JavaScript/JavaScript DOM.md",
     "MDN/JavaScript 基础/语法和数据类型.md",
     "MDN/JavaScript 基础/JavaScript 基础.md",
@@ -248,7 +251,6 @@
     "MDN",
     "FreeCodeCamp/FreeCodeCamp.md",
     "FreeCodeCamp/JavaScript/JavaScript.md",
-    "Tags",
     "FreeCodeCamp/JavaScript/Drawing 2025-01-31 13.08.09.excalidraw.md",
     "excalibrain.md",
     "Excalidraw/Drawing 2025-01-30 11.54.43.excalidraw.md",
