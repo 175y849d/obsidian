@@ -1,6 +1,6 @@
 [[2025-02-01]]
 
-##### 我在做我的todo-list项目时,deepseek给我了个简略的index.html页面代码,如下
+##### 我在做我的todo-list项目时,deepseek给我了个简略的index.html页面代码,如下:
 
 
 ```
@@ -26,4 +26,8 @@
 		</html>
 ```
 
-此代码页面为 [file:///D:/code/Html_test/todo-list/index.html]()
+### 页面图片如下:
+![[Pasted image 20250201153241.png]]
+
+
+### 我的第一反应s
