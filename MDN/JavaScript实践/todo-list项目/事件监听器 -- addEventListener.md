@@ -1,0 +1,25 @@
+[[2025-02-01]]
+我在做我的todo-list项目时,deepseek给我了个简略的html页面代码,如下
+
+```
+	    <!DOCTYPE html>  
+		<html>  
+		<head>  
+		  <meta charset="UTF-8">  
+		  <title>Todo List</title>  
+		  <link rel="stylesheet" href="style.css">  
+		</head>  
+		<body>  
+		  <div class="container">  
+		    <h1>Todo List</h1>  
+		    <div class="input-section">  
+		        <input type="text" id="taskInput" placeholder="输入新任务...">  
+		        <button id="addBtn">添加</button>  
+		    </div>  
+		    <ul id="taskList"></ul>  
+		    <div class="stats">总任务数: <span id="total">0</span></div>  
+		  </div>  
+		  <script src="app.js"></script>  
+		</body>  
+		</html>
+```

@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MDN/JavaScript实践/事件监听器 -- addEventListener.md",
-                "mode": "source",
-                "source": false,
+                "file": "MDN/JavaScript实践/todo-list项目/事件监听器 -- addEventListener.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -233,7 +233,9 @@
   },
   "active": "168ea8059690da29",
   "lastOpenFiles": [
-    "MDN/JavaScript实践/事件监听器 -- addEventListener.md",
+    "MDN/JavaScript实践/todo-list项目/todo-list项目.md",
+    "MDN/JavaScript实践/todo-list项目",
+    "MDN/JavaScript实践/todo-list项目/事件监听器 -- addEventListener.md",
     "MDN/JavaScript实践/JavaScript实践.md",
     "MDN/JavaScript实践",
     "MDN/JavaScript 基础/语法和数据类型.md",
@@ -268,7 +270,6 @@
     "freeCodeCamp/JavaScript/JavaScript DOM.md",
     "2025-01-29.md",
     "freeCodeCamp/JavaScript/未命名.md",
-    "freeCodeCamp",
     "JavaScript Dom.md",
     "未命名 1.canvas",
     "未命名.canvas"
