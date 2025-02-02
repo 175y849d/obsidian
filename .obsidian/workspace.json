@@ -30,21 +30,8 @@
               "icon": "lucide-file",
               "title": "事件监听器 -- addEventListener"
             }
-          },
-          {
-            "id": "0b709d59f552cbf9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -168,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MDN/JavaScript实践/todo-list项目/事件监听器 -- addEventListener.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "事件监听器 -- addEventListener 的反向链接列表"
             }
           },
           {
@@ -242,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b709d59f552cbf9",
+  "active": "168ea8059690da29",
   "lastOpenFiles": [
     "Tags",
     "images/Pasted image 20250201153241.png",
