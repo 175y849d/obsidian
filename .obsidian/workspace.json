@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "事件监听器 -- addEventListener"
             }
+          },
+          {
+            "id": "0b709d59f552cbf9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +99,7 @@
             }
           },
           {
-            "id": "90b5f3a80f722c18",
+            "id": "fe5533a24cabd98f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -155,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MDN/JavaScript实践/todo-list项目/事件监听器 -- addEventListener.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "事件监听器 -- addEventListener 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -230,8 +242,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "168ea8059690da29",
+  "active": "0b709d59f552cbf9",
   "lastOpenFiles": [
+    "Tags",
     "images/Pasted image 20250201153241.png",
     "images/Pasted image 20250131150516.png",
     "MDN/JavaScript实践/todo-list项目/事件监听器 -- addEventListener.md",
@@ -240,7 +253,6 @@
     "MDN/JavaScript实践/JavaScript实践.md",
     "MDN/JavaScript实践",
     "MDN/JavaScript 基础/语法和数据类型.md",
-    "Tags",
     "FreeCodeCamp/JavaScript/JavaScript DOM.md",
     "MDN/JavaScript 基础/JavaScript 基础.md",
     "MDN/MDN.md",
