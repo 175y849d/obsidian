@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MDN/JavaScript实践/todo-list项目/事件监听器 -- addEventListener.md",
+                "file": "nihao/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "事件监听器 -- addEventListener"
+              "title": "Untitled"
             }
           }
         ],
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MDN/JavaScript实践/todo-list项目/事件监听器 -- addEventListener.md",
+                "file": "nihao/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "事件监听器 -- addEventListener 的反向链接列表"
+              "title": "Untitled 的反向链接列表"
             }
           },
           {
@@ -232,10 +232,13 @@
   },
   "active": "168ea8059690da29",
   "lastOpenFiles": [
+    "nihao/Untitled.md",
+    "MDN/JavaScript实践/todo-list项目/事件监听器 -- addEventListener.md",
+    "nihao/nihao.md",
+    "nihao",
     "Tags",
     "images/Pasted image 20250201153241.png",
     "images/Pasted image 20250131150516.png",
-    "MDN/JavaScript实践/todo-list项目/事件监听器 -- addEventListener.md",
     "MDN/JavaScript实践/todo-list项目/todo-list项目.md",
     "MDN/JavaScript实践/todo-list项目",
     "MDN/JavaScript实践/JavaScript实践.md",
@@ -264,12 +267,10 @@
     "FreeCodeCamp/JavaScript",
     "FreeCodeCamp",
     "未命名.md",
-    "vault1",
     "vault1.md",
     "未命名看板.md",
     "freeCodeCamp/JavaScript/JavaScript DOM.md",
     "2025-01-29.md",
-    "freeCodeCamp/JavaScript/未命名.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
